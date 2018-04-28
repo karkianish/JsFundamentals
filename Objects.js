@@ -112,3 +112,5 @@ console.log(cat.fullName);
 cat.fullName = "ban ki"; // setting this will also update the firstName and lastName prop
 console.log(cat.firstName);
 console.log(cat.lastName);
+
+//just a test
