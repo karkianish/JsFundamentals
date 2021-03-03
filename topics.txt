@@ -1,0 +1,7 @@
+- visual studio shortcuts, how to configure
+- how to use immediate window
+- debugging techniques
+- linq
+- const vs readonly
+- navigating codebase
+- 

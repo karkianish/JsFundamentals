@@ -1,9 +1,7 @@
 'use strict';
 
 var person =  { 
-    name: "james",
-    age: 22,
-    address: {
+    name: "james", age: 22, address: {
         streetNumber: 123,
         streetName: 'Jackson Rd'
     }
